@@ -1,0 +1,9 @@
+{
+	"name": "Klast1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7173a46-16e4-44da-8d7d-23a155f5d51e",
+		"tenantId": "29a25b0c-1189-4e8e-a756-4a231ddc0d14"
+	}
+}
